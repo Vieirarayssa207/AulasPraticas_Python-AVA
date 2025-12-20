@@ -1,0 +1,22 @@
+{
+    "Ana Silva": {
+        "telefone": "(11) 99999-9999",
+        "email": "ana.silva@email.com"
+    },
+    "Carlos Santos": {
+        "telefone": "(21) 92121-2121",
+        "email": "carlos.santos@empresa.com"
+    },
+    "Maria Oliveira": {
+        "telefone": "(31) 93131-3131",
+        "email": "maria.oliveira@universidade.edu"
+    },
+    "João Pereira": {
+        "telefone": "(41) 94141-4141",
+        "email": "joao.pereira@tech.com"
+    },
+    "Fernanda Lima": {
+        "telefone": "(51) 95151-5151",
+        "email": "fernanda.lima@design.com"
+    }
+}
